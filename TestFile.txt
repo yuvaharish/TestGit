@@ -1,0 +1,4 @@
+comment
+git init
+git status
+git commite
