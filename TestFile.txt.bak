@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+comment
+git init
+git status
+git commite
+=======
+git init
+git status
+git ignore
+>>>>>>> 86503ae84a588ac37ba2053d219613f720556dad

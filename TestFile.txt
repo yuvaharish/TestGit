@@ -1,4 +1,10 @@
+
 comment
 git init
 git status
 git commite
+
+git init
+git status
+git ignore
+
